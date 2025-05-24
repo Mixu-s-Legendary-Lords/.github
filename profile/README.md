@@ -55,7 +55,7 @@ A massive expansion adding 50+ lore-accurate legendary lords to Total War: WARHA
 *Example: Custom Lord Selection screen.*
 
 **2. Screenshot Two**  
-![Preview 2](https://via.placeholder.com/600x400)
+![Preview 2](https://preview.redd.it/using-mixus-unlocker-why-does-the-red-ruke-have-his-own-v0-gfsc8ca9iika1.png?width=640&crop=smart&auto=webp&s=8d8ecb6d85a31bfacbfc5cea98d413dc97bf369a)
 *In-game visuals showing new lord starting location.*
 
 ---
